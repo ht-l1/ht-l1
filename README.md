@@ -1,16 +1,35 @@
+<!--  previous format
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/HtTechx.svg?style=social&label=Follow%20%40HtTechx)](https://twitter.com/HtTechx)
+
 <a href="https://komarev.com/ghpvc/?username=ht-l1">
   <img height=20 align="center" src="https://komarev.com/ghpvc/?username=ht-l1" />
 </a>
+
 <a href="https://www.codewars.com/users/ht-l1/badges/micro">
   <img height=20 align="center" src="https://www.codewars.com/users/ht-l1/badges/micro" />
 </a>
 
-<br> Software Engineer in Boston with 6+ years finance background. I'm hands on with full-cycle software development, from planning and design to testing and deployment. Let's connect on 👩‍💻[Twitter](https://twitter.com/HtTechx) or 📧[Email](ht.techx@gmail.com) to explore collaboration opportunities! 
+-->
 
-- 🚀 Explore [VentureUp](https://ventureup.cyclic.app), my full stack web app for project management
-- 🚀 Check out [Pinverse](https://pinverse.netlify.app), my interactive blogging platform, built with the MERN stack 
+<a href="https://komarev.com/ghpvc/?username=ht-l1">
+  <img height=20 src="https://komarev.com/ghpvc/?username=ht-l1" />
+</a>
 
-#### Tech Stacks:
+<a href="https://twitter.com/HtTechx" style="margin-right: 10px;">
+  <img src="https://img.shields.io/twitter/url/https/twitter.com/HtTechx.svg?style=social&label=%20%40HtTechx" alt="Twitter Follow" style="vertical-align: middle; position: relative; top: -1px;" />
+</a>
+
+
+
+<br> Software Engineer in Boston with 6+ years finance background. I'm hands on with full-cycle software development, from planning and design to testing and deployment. Reach out to me via <a href="mailto:ht.techx@gmail.com">📧 Email</a> to explore collaboration opportunities! 
+
+
+🚀 Explore [VentureUp](https://ventureup.cyclic.app), my full stack web app for project management <br>
+🚀 Check out [Pinverse](https://pinverse.netlify.app), my interactive blogging platform, built with the MERN stack <br>
+
+
+<!--#### Tech Stacks:-->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
