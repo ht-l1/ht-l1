@@ -22,7 +22,7 @@
 
 <br> Software Engineer in Boston with 10+ years finance background. I'm hands on with full-cycle software development, from planning and design to testing and deployment. Reach out to me via 📧<a href="mailto:ht.techx@gmail.com">Email</a> or 📅[Cadendly](https://calendly.com/hannah-linx/30min) to explore collaboration opportunities! 
 
-🚀 Explore [VentureUp](https://ventureup-2gnp.onrender.com), my full stack web app for project management <br>
+🚀 Explore [VentureUp](https://ventureup-2gnp.onrender.com), my full stack web app for hiking log <br>
 🚀 Check out [Pinverse](https://pinverse.netlify.app), my interactive blogging platform, built with the MERN stack <br>
 
 
