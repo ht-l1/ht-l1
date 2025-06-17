@@ -24,12 +24,12 @@
 
 🚀 Explore [VentureUp](https://ventureup-2gnp.onrender.com), my full stack web app for hiking log <br>
 🚀 Check out [Pinverse](https://pinverse.netlify.app), my interactive blogging platform, built with the MERN stack <br>
-🚀 And [Foresight Analytics](https://foresight-analytics.streamlit.app/), my AI powered finance analytics platform, built with Python <br>
+🚀 And [Foresight Analytics](https://foresight-analytics.streamlit.app), my AI powered finance analytics platform, built with Python <br>
 
 <p float="left">
   <a href="https://ventureup-2gnp.onrender.com/"><img width="250" alt="Index" src="https://github.com/ht-l1/VentureUp/assets/106502799/6f38139a-4cb8-4395-a036-a36e4a0f66d1"></a>
   <a href="https://pinverse.netlify.app/"><img width="230" alt="Index" src="https://github.com/ht-l1/Pinverse/assets/106502799/f70b7faf-deb9-4772-99d0-bd0d69076956"></a>
-  <a href="https://foresight-analytics.streamlit.app/)"><img width="315" alt="Index" src="https://github.com/user-attachments/assets/b97fa4d7-9930-46bc-86ee-8c73f356454c"></a>
+  <a href="https://foresight-analytics.streamlit.app/"><img width="315" alt="Index" src="https://github.com/user-attachments/assets/b97fa4d7-9930-46bc-86ee-8c73f356454c"></a>
 </p>
 
 
